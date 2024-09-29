@@ -17,11 +17,10 @@ Outcome: Drew actionable insights and valuable recommendations
 Top maker in 2-Wheeler segment: Ola Electric.
 Top maker in 4-Wheeler segment: Tata Motors.
 Leading state in EV sales with 396,045 units sold: Maharashtra.
+
+
 🧠Key Learnings
 Enhanced data visualization for deeper insights.
 Acquired domain knowledge in automotive and EV sector.
 Enhanced storytelling capabilities through effective presentation.
 Derived actionable insights for a strategic decision making.
-🔧Tools Used
-Power BI
-AI tool (ChatGpt)
